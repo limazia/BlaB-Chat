@@ -1,5 +1,5 @@
 # BlaB Chat
-BlaB é um sistema de chat com criação de salas, gerenciamento de cargo e muito mais.
+BlaB Chat é um sistema de chat com criação de salas, gerenciamento de cargo e muito mais.
  
 ## Instalação
 BlaB requer [Node.js](https://nodejs.org/) v10+ para execução.
